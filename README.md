@@ -1,7 +1,7 @@
 <h3> Hi, welcome to my profile! My name is Adeilson 😎✌️ </h3>
 <hr />
 
-<strong>You can also read this profile in portuguese, my native language, clicking <a href="https://github.com/adeilsonaalima#%EF%B8%8F-languages">here</a>!</strong>
+<strong>You can also read this profile in portuguese, my native language, clicking <a href="#languages">here</a>!</strong>
 
 <p>👨‍💻 In case you're interested, here's some information about me:<p>
 
@@ -141,7 +141,7 @@
 
   <p>Você pode acessar todos os meus repositórios <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicando aqui</a>!</p>
 
-  <h3>⚛️ Outros & Contato</h3>
+  <a name="languages"><h3>⚛️ Outros & Contato</h3></a>
   <p>🧠 Estou sempre aprendendo!</p>
   <p>💬 Pergunte-me sobre filosofia, programação ou animações 😀</p>
   <p>📫 Você pode entrar em contato comigo em adeilson.afix@gmail.com</p>
