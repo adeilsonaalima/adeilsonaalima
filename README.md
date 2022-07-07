@@ -84,7 +84,7 @@
   {
     nome: "Adeilson Á. A. Lima",
     idade: 23,
-    nacionalidade: "brazilian",
+    nacionalidade: "brasileiro",
     residencia: "Fortaleza — Ceará — Brazil",
     desenvolvedor: "Fullstack"
   }
