@@ -1,7 +1,7 @@
 <h3> Hi, welcome to my profile! My name is Adeilson 😎✌️ </h3>
 <hr />
 
-<strong>You can also read this profile in portuguese, my native language, clicking <a href="https://github.com/adeilsonaalima/adeilsonaalima/edit/main/README.md#%EF%B8%8F-languages">here</a>!</strong>
+<strong>You can also read this profile in portuguese, my native language, clicking <a href="https://github.com/adeilsonaalima#%EF%B8%8F-languages">here</a>!</strong>
 
 <p>👨‍💻 In case you're interested, here's some information about me:<p>
 
