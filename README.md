@@ -57,14 +57,15 @@
 
 <h3>🔗 Projects</h3>
 <ul>
-  <li><a href="https://adeilsonaalima.github.io/lonely-planet/">Lonely Planet</a></li>
-  <li><a href="https://adeilsonaalima.github.io/task-list/">Task List</a></li>
-  <li><a href="https://planetary-adeilsonaalima.vercel.app/">Planetary</a></li>
-  <li><a href="https://planetary-routes-adeilsonaalima.vercel.app/">Planetary with Routes</a></li>
-  <li><a href="https://hapvida.adila.tech/">Hapvida Orçamentos</a></li>
+  <li><a href="https://adeilsonaalima.github.io/lonely-planet/">Lonely Planet</a> | <a href="https://github.com/adeilsonaalima/lonely-planet">REPOSITORY</a></li>
+  <li><a href="https://adeilsonaalima.github.io/task-list/">Task List</a> | <a href="https://github.com/adeilsonaalima/to-do-list">REPOSITORY</a></li>
+  <li><a href="https://planetary-adeilsonaalima.vercel.app/">Planetary</a> | <a href="https://github.com/adeilsonaalima/planetary">REPOSITORY</a></li>
+  <li><a href="https://planetary-routes-adeilsonaalima.vercel.app/">Planetary with Routes</a> | <a href="https://github.com/adeilsonaalima/planetary-routes">REPOSITORY</a></li>
+  <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde (HTML, CSS & JS)</a> | <a href="https://github.com/adeilsonaalima/hapvida">REPOSITORY</a></li>
+   <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde 2.0 (ReactJS)</a> | <a href="https://github.com/adeilsonaalima/hapvida-reactjs">REPOSITORY</a></li>
 </ul>
 
-<p>You can access all my repositories by <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicking here</a></p>
+<p>You can access all my repositories by <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicking here</a>!</p>
 
 <h3>⚛️ Others & Contact</h3>
 <p>🧠 I'm always learning!</p>
@@ -132,11 +133,12 @@
 
   <h3>🔗 Projetos</h3>
   <ul>
-    <li><a href="https://adeilsonaalima.github.io/lonely-planet/">Planeta Solitário (Lonely Planet)</a></li>
-    <li><a href="https://adeilsonaalima.github.io/task-list/">Lista de Tarefas (Task List)</a></li>
-    <li><a href="https://planetary-adeilsonaalima.vercel.app/">Planetário (Planetary)</a></li>
-    <li><a href="https://planetary-routes-adeilsonaalima.vercel.app/">Planetário com Rotas (Planetary with Routes)</a></li>
-    <li><a href="https://hapvida.adila.tech/">Hapvida Orçamentos</a></li>
+    <li><a href="https://adeilsonaalima.github.io/lonely-planet/">Planeta Solitário (Lonely Planet)</a> | <a href="https://github.com/adeilsonaalima/lonely-planet">REPOSITÓRIO</a></li>
+    <li><a href="https://adeilsonaalima.github.io/task-list/">Lista de Tarefas (Task List)</a> | <a href="https://github.com/adeilsonaalima/to-do-list">REPOSITÓRIO</a></li>
+    <li><a href="https://planetary-adeilsonaalima.vercel.app/">Planetário (Planetary)</a> | <a href="https://github.com/adeilsonaalima/planetary">REPOSITÓRIO</a></li>
+    <li><a href="https://planetary-routes-adeilsonaalima.vercel.app/">Planetário com Rotas (Planetary with Routes)</a> | <a href="https://github.com/adeilsonaalima/planetary-routes">REPOSITÓRIO</a></li>
+    <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde (HTML, CSS & JS)</a> | <a href="https://github.com/adeilsonaalima/hapvida">REPOSITÓRIO</a></li>
+    <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde 2.0 (ReactJS)</a> | <a href="https://github.com/adeilsonaalima/hapvida-reactjs">REPOSITÓRIO</a></li>
   </ul>
 
   <p>Você pode acessar todos os meus repositórios <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicando aqui</a>!</p>
