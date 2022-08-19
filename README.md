@@ -137,8 +137,8 @@
     <li><a href="https://adeilsonaalima.github.io/task-list/">Lista de Tarefas (Task List)</a> | <a href="https://github.com/adeilsonaalima/to-do-list">REPOSITÓRIO</a></li>
     <li><a href="https://planetary-adeilsonaalima.vercel.app/">Planetário (Planetary)</a> | <a href="https://github.com/adeilsonaalima/planetary">REPOSITÓRIO</a></li>
     <li><a href="https://planetary-routes-adeilsonaalima.vercel.app/">Planetário com Rotas (Planetary with Routes)</a> | <a href="https://github.com/adeilsonaalima/planetary-routes">REPOSITÓRIO</a></li>
-    <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde (HTML, CSS & JS)</a> | <a href="https://github.com/adeilsonaalima/hapvida">REPOSITÓRIO</a></li>
-    <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde 2.0 (ReactJS)</a> | <a href="https://github.com/adeilsonaalima/hapvida-reactjs">REPOSITÓRIO</a></li>
+    <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde (HTML, CSS & JS)</a> | <a href="https://adeilsonaalima.github.io/hapvida/">REPOSITÓRIO</a></li>
+    <li><a href="https://hapvida.adila.tech/">Orçamentos Hapvida Saúde 2.0 (ReactJS)</a> | <a href="https://hapvida.adila.tech/">REPOSITÓRIO</a></li>
   </ul>
 
   <p>Você pode acessar todos os meus repositórios <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicando aqui</a>!</p>
