@@ -1,37 +1,29 @@
-<h3>Meu nome é Adeilson 😎✌️</h3>
-  <hr />
-
-  <pre>
+<h3>My name is Adeilson 😎✌️</h3>
+<hr />
+<pre>
   {
-    nome: "Adeilson Á. A. Lima",
-    idade: 23,
-    nacionalidade: "brasileiro",
-    residencia: "Fortaleza — Ceará — Brasil",
-    desenvolvedor: "Fullstack"
+    name: "Adeilson Á. A. Lima",
+    age: 23,
+    nationality: "brasileiro",
+    residence: "Fortaleza — Ceará — Brasil",
+    developer: "Fullstack"
   }
-  </pre>
-  
-<h3>🛠 Tecnologias</h3>
+</pre>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,electron,jquery,php,nodejs,mongodb,docker,mysql,express,git&perline=5)](https://skillicons.dev)
+<h3>🛠 Technologies</h3>
 
-  <h3>🔗 Projetos</h3>
-  <ul>
-    <li><a href="https://hapvida.adila.tech/" target="_blank">Orçamentos Hapvida Saúde (ReactJS)</a></li>
-    <li><a href="https://planetary-routes-adeilsonaalima.vercel.app/" target="_blank">Planetário (NodeJS)</a></li>
-    <li><a href="https://adeilsonaalima.github.io/lonely-planet/" target="_blank">Planeta Solitário (HTML e CSS)</a></li>
-    <li><a href="https://adeilsonaalima.github.io/task-list/" target="_blank">Lista de Tarefas (HTML, CSS e JS)</a></li>
-    <li><a href="https://codepen.io/adeilson-adila/pen/qBKgqvx" target="_blank">Formulário de Qualidade (HTML e CSS)</a></li>
-    <li><a href="https://codepen.io/adeilson-adila/pen/dyKaOLj" target="_blank">Página de Tributo (HTML e CSS)</a></li>
-    <li><a href="https://codepen.io/adeilson-adila/pen/KKeJNLz" target="_blank">Página de Documentação Técnica (HTML e CSS)</a></li>
-    <li><a href="https://codepen.io/adeilson-adila/pen/NWzobZP" target="_blank">Landing Page de Produto (HTML e CSS)</a></li>
-  </ul>
+[![My
+Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,express,ts,react,electron,mongodb,docker,php,mysql,wordpress,git&perline=8)](https://skillicons.dev)
 
-  <p>Você pode acessar todos os meus repositórios <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicando aqui</a>!</p>
+<h3>🔗 Portfólio</h3>
+<ul>
+  <p>Working on it 👷</p>
+</ul>
 
-  <h3>⚛️ Outros & Contato</h3>
-  <p>🧠 Estou sempre aprendendo!</p>
-  <p>💬 Pergunte-me sobre filosofia, programação ou animações 😀</p>
-  <p>📫 Você pode entrar em contato comigo em adeilson.afix@gmail.com</p>
-  
-  
+<p>You can access all my repositories by <a
+    href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicking here</a>!</p>
+
+<h3>⚛️ Other & Contact</h3>
+<p>🧠 I'm always learning!</p>
+<p>💬 Ask me about philosophy, programming or animations 😀</p>
+<p>📫 You can contact me at adeilson.afix@gmail.com</p>
