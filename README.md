@@ -17,7 +17,7 @@ Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,expre
 
 <h3>🔗 Portfólio</h3>
 <ul>
-  <p>Working on it 👷</p>
+  <p>👷 Working on it</p>
   <p>🗂️ You can access all my repositories by <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicking here</a>!</p>
 </ul>
 
