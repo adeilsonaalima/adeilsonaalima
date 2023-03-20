@@ -18,8 +18,9 @@ Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,expre
 <br />
 <h3>🔗 Portfólio</h3>
 <ul>
-  <p>👷 Working on it</p>
-  <p>🗂️ You can access all my repositories by <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicking here</a>!</p>
+  <li>👷 Working on it</li>
+  <li><a href="https://github.com/adeilsonaalima/currency-converter" target="_blank" style="text-transform: none">💱 Currency Converter (Repository)</a></li>
+  <li>🗂️ You can access all my repositories by <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicking here</a>!</li>
 </ul>
 <br />
 <h3>⚛️ Other & Contact</h3>
