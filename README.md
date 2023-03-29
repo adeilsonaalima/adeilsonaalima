@@ -19,7 +19,8 @@ Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,expre
 <h3>🔗 Portfólio</h3>
 <ul>
   <li>👷 Working on it</li>
-  <li><a href="https://github.com/adeilsonaalima/currency-converter" target="_blank" style="text-transform: none">💱 Currency Converter (Repository)</a></li>
+  <li><a href="https://github.com/adeilsonaalima/api-nodejs-mongodb-express-jwt" target="_blank">🗃️ API NodeJS MongoDB Express JWT (Repository)</a></li>
+  <li><a href="https://github.com/adeilsonaalima/currency-converter" target="_blank">💱 Currency Converter (Repository)</a></li>
   <li>🗂️ You can access all my repositories by <a href="https://github.com/adeilsonaalima?tab=repositories&q=&type=&language=&sort=name">clicking here</a>!</li>
 </ul>
 <br />
