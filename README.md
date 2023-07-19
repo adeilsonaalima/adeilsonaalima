@@ -1,19 +1,24 @@
-<h3>My name is Adeilson 😎✌️</h3>
+<h3>I'm Adeilson 😎✌️</h3>
 <hr />
 <pre>
   {
     name: "Adeilson Á. A. Lima",
     age: 23,
-    nationality: "brasileiro",
+    nationality: "Brasileiro",
     residence: "Fortaleza — Ceará — Brasil",
     developer: "Fullstack"
   }
 </pre>
 <br />
-<h3>🛠 Technologies</h3>
+<h3>🛠 Technologies that I am very familiar with</h3>
 
 [![My
-Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,express,ts,react,electron,mongodb,docker,php,mysql,wordpress,git,flutter,dart&perline=8)](https://skillicons.dev)
+Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,wordpress,git&perline=10)](https://skillicons.dev)
+<br />
+<h3>🛠 Technologies I have some familiarity with</h3>
+
+[![My
+Skills](https://skillicons.dev/icons?i=nodejs,express,react,electron,mongodb,docker,flutter,dart&perline=10)](https://skillicons.dev)
 <br />
 <br />
 <h3>🔗 Portfólio</h3>
@@ -27,5 +32,5 @@ Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,expre
 <h3>⚛️ Other & Contact</h3>
 <p>🧠 I'm always learning!</p>
 <p>💬 Ask me about philosophy, programming or animations 😀</p>
-<p>📫 You can contact me at adeilson.afix@gmail.com</p>
+<p>📫 You can contact me at <a href="mail:adeilsonaalima@gmail.com">adeilsonaalima@gmail.com</a></p>
 <br />
